@@ -1,7 +1,7 @@
 # organized  
 ## Goal of the project  
 Code a shell based, data storage using linked lists  
-## Flags  
+## Commands
 Once the program is running you can use multiple commands :
 - **`ADD`** : add elements to the list, they have to be formated like this <'type'> <'name'>  
 type must be one of : [WIRE, ACTUATOR, DEVICE, PROCESSOR, SENSOR]  
